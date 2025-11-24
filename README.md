@@ -51,4 +51,4 @@
 
 - `laura.bortoli@studio.unibo.it`
 
-> _Trying to keep one foot in the archives and the other on the command line._
+> _Humanities mind, computational tools._
