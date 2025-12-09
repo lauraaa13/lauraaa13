@@ -22,7 +22,7 @@
 
 - MA student in **Digital Humanities and Digital Knowledge** (UniBo)  
 - BA in **Humanities (Lettere)**, thesis in **Linguistics**  
-- Curious about **computational linguistics, NLP, ML, AI, arts management & digital cultural heritage**  
+- Curious about **computational linguistics, NLP, ML, AI (critically!), arts management & digital cultural heritage**  
 - I enjoy reading, podcasts, concerts, politics, and anything that mixes humanities and tech  
 
 ---
