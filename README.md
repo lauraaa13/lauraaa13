@@ -33,15 +33,15 @@ Currently at DHDK, University of Bologna.
 ## Projects
 
 **[The Revolussion of Renzo Renzi](https://github.com/CineFiles25/TheRevolussionOfRenzoRenzi)**  
-A Digital Humanities project on the archival ecosystem of Renzo Renzi — film
+A Digital Humanities project on the archival ecosystem of Renzo Renzi - film
 critic, writer, and one of the founders of Cineteca di Bologna. We encoded
 archival materials in TEI/XML, modelled them as Linked Open Data using Dublin
 Core, FOAF, and Schema.org, and published the full dataset via GitHub Pages.  
 `TEI P5` `XSLT` `RDF/Turtle` `SPARQL` `Python` `RDFLib`
 
 **[Brigata](https://github.com/lisitein/Brigata)**  
-A modular Python query engine integrating two heterogeneous data sources — a
-graph database (Blazegraph/RDF) and a relational database (SQLite) — into a
+A modular Python query engine integrating two heterogeneous data sources - a
+graph database (Blazegraph/RDF) and a relational database (SQLite) - into a
 unified interface returning typed Python objects. Built collaboratively as part
 of a Data Science course.  
 `Python` `RDFLib` `SPARQLWrapper` `SQLite` `SQLAlchemy`
@@ -50,10 +50,10 @@ of a Data Science course.
 
 ## Stack
 
-**Code & data** — Python · RDFLib · SPARQLWrapper · SQLite · SQLAlchemy  
-**Markup & encoding** — TEI P5 · XSLT · RDF/Turtle · HTML/CSS  
-**Knowledge organisation** — SPARQL · Dublin Core · FOAF · SKOS · Schema.org  
-**Standards** — ISBD · ICCD · FIAF · ISAD(G)
+**Code & data** - Python · RDFLib · SPARQLWrapper · SQLite · SQLAlchemy  
+**Markup & encoding** - TEI P5 · XSLT · RDF/Turtle · HTML/CSS  
+**Knowledge organisation** - SPARQL · Dublin Core · FOAF · SKOS · Schema.org  
+**Standards** - ISBD · ICCD · FIAF · ISAD(G)
 
 ---
 
